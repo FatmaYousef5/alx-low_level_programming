@@ -1,11 +1,11 @@
-#include<stdio.h>
+#include <stdio.h>
 
-/***
- * main function
+/**
+ * main-Entry point
  *
- * print sentence
+ * Description : print sentence
  *
- * return (success)
+ * return: 0 (success)
 */
 
 int main(void)
