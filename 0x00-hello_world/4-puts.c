@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main-Entry point
+ * main - Entry point
  *
  * Description : print sentence
  *
- * return: 0 (success)
+ * Return: 0 (success)
 */
 
 int main(void)
