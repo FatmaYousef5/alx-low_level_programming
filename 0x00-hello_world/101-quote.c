@@ -1,4 +1,4 @@
-#include<unistid.h>
+#include<unistd.h>
 
 /**
  * main - Entry point
